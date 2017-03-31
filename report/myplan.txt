@@ -1,0 +1,33 @@
+STRUCTURE OF REPORT
+
+- abstract
+	summarize in a page what it is the project covers
+
+- intro
+	context of instrument recognition
+	motivations/aims
+	report structure
+
+- research
+	different methods (features/ML algortihms) and analysis
+	little bit of theory
+
+- design and methodology
+	my chosen method and why
+	routes of exploration
+	possible outcomes
+
+- results and analysis
+	exactly that
+
+**POSSIBLE**
+- human questionnaire
+	comparison
+
+- conclusion
+- further exploration
+
+- bibliography
+	
+
+	

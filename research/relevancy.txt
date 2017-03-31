@@ -1,0 +1,12 @@
+USE THIS TO CHECK HOW RELEVANT A PAPER IS
+
+Instrument recognition?
+- polyphonic?
+- orchestral instruments
+- single notes mixed together
+
+K Nearest Neighbours?
+
+Neural Networks?
+
+Feature Selection?

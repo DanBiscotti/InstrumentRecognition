@@ -1,0 +1,10 @@
+Applying machine learning algorithms to the problem of musical instrument recognition
+
+aims:
+measure the accuracy of algorithms trained on one dataset when tested on another dataset
+measure the accuracy of algorithms trained on single notes when tested on solo performance
+measure the accuracy of algorithms trained on monophonic data when tested on polyphonic data
+
+more possible aims
+measure the accuracy of algorithms trained on synthesised sounds when tested on real word sounds:
+

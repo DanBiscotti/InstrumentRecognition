@@ -1,0 +1,4 @@
+things to talk about:
+what defines the sound of an instrument?
+
+In this paper I aim to explore the effectiveness of various machine learning algorithms when applied to musical instrument recognition. 

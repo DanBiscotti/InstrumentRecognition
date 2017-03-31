@@ -1,0 +1,9 @@
+SOURCES
+
+university of IOWA dataset - http://theremin.music.uiowa.edu/
+philharmonia dataset - http://www.philharmonia.co.uk/explore/sound_samples
+freesound
+- MTG good-sounds - https://www.freesound.org/people/MTG/
+- Carlos Vaquero - https://www.freesound.org/people/Carlos_Vaquero/
+- freesound user ldk1609 for violin samples - https://www.freesound.org/people/ldk1609/
+

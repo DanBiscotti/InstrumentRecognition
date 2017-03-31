@@ -1,0 +1,16 @@
+K NEAREST NEIGHBOURS
+
+K Nearest Neighbours is a method of classification which predicts the label of an unkown input based on the similiarity to the training data.
+
+PARAMETERS
+k - number of nearest neighbours to use when predicting class
+distance measure - type of distance used to calculate nearest neighbour
+
+PROS
+Quick (no training stage)
+
+CONS
+entire dataset is required for every new prediction. this affects:
+	storage, have to store whole dataset to make prediction
+	testing, have to check whole dataset for nearest neighbors
+

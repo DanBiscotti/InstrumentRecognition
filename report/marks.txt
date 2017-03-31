@@ -1,0 +1,51 @@
+MARKS FOR PROJECT:
+
+overall:
+5% interim report & risk assessment
+10% presentation and viva
+85% report and final deliverable
+
+breakdown for viva/report:
+demonstration/viva (10%):
+- ascertain all areas of competence in the project
+- Q&A ability to answer questions
+- professionalism
+- organisation and preparation, including ability to keep time
+- clarity in communicating ideas and concepts
+- appropriate level of explanation when addressing supervisor and examiner
+- use of visual aids
+
+background, aims and organisation (17%):
+- organisation into subgoals
+- understanding of the aims of the project
+- placement in context of literature on the topic
+determined by both viva and report
+
+acheivement (26%)
+- acheivement of basic aims
+- ambition of goals
+- quality of work (eg computer code)
+- completeness of the work
+determined by both viva and report
+
+clarity (12.5%)
+- quality of the writing
+- organisation of the writing
+- quality of figures and legends
+- correct referencing
+- ease of understanding of the presentation of ideas
+determined by both viva and report
+
+analysis/testing (17%)
+- adequacy of testing
+- documentation of testing
+- critical analysis of results
+- analysis of strengths/weakness
+- possible further work
+determined by both viva and report
+
+difficulty level and supervision (12.5%)
+- how difficult was the project to understand and implement
+- closeness of supervision required
+- ability of student to work independently
+determined by both viva and report

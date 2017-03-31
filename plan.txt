@@ -1,0 +1,19 @@
+MAIN GOAL
+to test if instrument recognition algorithms trained on single notes perform on real world data compared to instrument recognition systems trained on polyphonic data
+
+METHOD
+First: train and compare 3 instrument recognition algrorithms on single note, monophonic instrument samples from a single dataset
+Second: do the same as above but for several datasets
+third: combine samples from different instruments and datasets to create polyphonic data (comprising of 2 instruments) and do the same as above
+fourth: test all models created so far on real world data
+fifth: create another dataset by adding random noise to polyphonic data
+sixth: test this on real world data
+seventh: conclude
+
+answer these questions:
+Did the algorithm trained on monophonic data perform well on real world data?
+Did the algorithm trained on polyphonic data perform better?
+Did the algorithm trained on polyphonic data with added noise perform better?
+Which algorithm performed best?
+Why might this be?
+How could these recognition systems be improved?

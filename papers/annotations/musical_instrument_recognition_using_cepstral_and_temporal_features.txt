@@ -1,0 +1,10 @@
+Musical Instrument Recognition Using Cepstral Coefficients and Temporal Features
+ref: '[n] - A. Eronen & A. Klapuri, "Musical Instrument Recognition Using Cepstral Coefficients and Temporal Features" in IEEE International Conference on Acoustics, Speech, and Signal Processing 2000'
+
+Summary
+Audio features can be split into two categories: spectral and temporal. This paper explores the effectiveness of various features from each category with respect to instrument recognition.
+
+
+Interesting points:
+Similarity between instrument recognition and speaker recognition problems
+mention of paper using heirarchical classification
