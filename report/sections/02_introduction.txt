@@ -1,0 +1,6 @@
+Introduction
+
+- current commercial applications of instrument recognition
+- future possible commercial applications of instrument recognition
+- progress in research/academic realm
+- description of sections

@@ -1,0 +1,18 @@
+Research
+
+1 - human instrument recognition (sporcle results https://www.sporcle.com/games/Scarpia/sound-of-musical-intruments/results)
+  - - which families/instruments do humans find difficult to distinguish and why? (exposure/similarity in sound)
+  - - spectrograms of
+
+2 - methods of other monophonic instrument recognition systems
+  - - features used
+  - - machine learning algorithms used
+  - - results acheived
+
+3 - polyphonic instrument recognition
+  - - features used
+  - - source separation
+  - - number of instruments sounding together
+  - - results acheived
+
+4 - how this research has influenced my project

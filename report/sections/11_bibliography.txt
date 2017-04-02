@@ -1,0 +1,16 @@
+Bibliography
+
+Datasets
+[phi]
+[uoi]
+[mtg]
+[mslp]
+[cv]
+[sso]
+[vsco]
+[kys]
+
+Papers
+
+Other
+[sporcle]
